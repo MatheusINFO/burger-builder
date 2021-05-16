@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com acompanhamento de [React - The Complete Guide 
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/MatheusINFO/BurgerBuilder.git
+$ git clone https://github.com/MatheusINFO/burger-builder.git
 
 # Ir dentro do repositório clonado
 $ cd BurgerBuilder
